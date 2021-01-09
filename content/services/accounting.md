@@ -1,5 +1,5 @@
 ---
-title: Class I to VIII
+title: Classes I to VIII
 date: '2021-01-09'
 draft: false
 featured: true
