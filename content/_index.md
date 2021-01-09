@@ -6,4 +6,4 @@ intro_image_hide_on_mobile: true
 ---
 # Welcome to Bridge To Success!
 
-Bathinda's premier tuition center for next generation of builders and makers.
+**Bathinda's** premier tuition center for next generation of builders and makers.
