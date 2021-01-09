@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Bridge To Success"
 
 [params]
-google_analytics_id = ""
+google_analytics_id = "G-B37JDT0L7F"
 google_tag_manager_id = ""
 
   [params.homepage]
