@@ -5,4 +5,4 @@ featured: true
 draft: false
 weight: 2
 ---
-We offer 
+We offer 2 subjects for students in classes from IX & X: Mathematics and Science.
