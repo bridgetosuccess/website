@@ -12,7 +12,7 @@ google_tag_manager_id = ""
 
   [params.logo]
   mobile = "images/parallel-panda.png"
-  desktop = "images/LogoMakr-1Iowbz.png"
+  desktop = "images/logo1.png"
   desktop_height = "50px"
   alt = "Bridge To Success"
 
