@@ -5,6 +5,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 
 ---
-# Bridge To Success
+# Welcome to Bridge To Success!
 
 Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
