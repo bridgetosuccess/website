@@ -5,4 +5,4 @@ featured: true
 draft: false
 weight: 3
 ---
-We offer 2 subjects for students in classes from XI and XII: <b>Mathematics</b>  and **Biology**.
+We offer 2 subjects for students in classes from XI and XII: <b>Mathematics</b>  and **Biology**
