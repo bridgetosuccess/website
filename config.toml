@@ -13,7 +13,7 @@ google_tag_manager_id = ""
   [params.logo]
   mobile = "images/parallel-panda.png"
   desktop = "images/logo.png"
-  desktop_height = "36px"
+  desktop_height = "5-p0"
   alt = "Bridge To Success"
 
   [params.homepage_meta_tags]
